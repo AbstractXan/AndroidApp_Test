@@ -1,16 +1,11 @@
 <resources>
-    <string name="app_name">Fetch Names from Firebase</string>
+    <string name="app_name">ParkItDammit</string>
 
-    <array name="name">
-        <item>Shraddha</item>
-        <item>Xan</item>
-        <item>Rohith</item>
-    </array>
-    <string name="title_activity_nav">Nav</string>
+    <string name="title_activity_nav">Home</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">Android Studio</string>
-    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_title">ParkIt</string>
+    <string name="nav_header_subtitle">Crowdsourced Parking</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
